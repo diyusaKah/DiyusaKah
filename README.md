@@ -59,9 +59,8 @@ Module disediakan "AS IS" tanpa jaminan. Pembuat tidak bertanggung jawab atas:
 - Device brick atau bootloop
 - Data loss
 - System instability
-- Garansi void
 
-**Sebelum install:** Backup device, pastikan recovery access, test di Safe Mode.
+**Sebelum install:** pastikan recovery access
 
 **Jika error:** Reboot recovery → uninstall module → restore backup.
 

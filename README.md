@@ -71,12 +71,6 @@ Automatic - tidak perlu konfigurasi manual. Disable/enable via Magisk Manager.
 
 ---
 
-## Changelog
-
-**v1.0.0** - Initial release
-
----
-
 ## License
 
 GPL-3.0 - See [LICENSE](LICENSE) file

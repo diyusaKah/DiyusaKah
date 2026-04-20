@@ -12,19 +12,6 @@ BiNDERS mengoptimalkan performa sistem melalui tuning kernel, GPU, dan memory ma
 
 ---
 
-## Features
-
-- Surface Flinger Optimization
-- CPU Performance Tuning
-- GPU Acceleration
-- Memory Management
-- Storage Optimization
-- Input Latency Reduction
-- Kernel Parameter Tuning
-- System Logging Reduction
-
----
-
 ## Requirements
 
 - Magisk 20.4+ atau KernelSU latest
